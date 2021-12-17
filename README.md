@@ -7,4 +7,4 @@ To run the program, type ```python app.py``` in your console while you are in th
 
 Visit `localhost` in your browser to access the flask app.
 
-Read the dev blog and explanation here: https://medium.com/the-research-nest/how-to-log-data-in-real-time-on-a-web-page-using-flask-socketio-in-python-fb55f9dad100
+Read the dev blog and explanation [here](https://medium.com/the-research-nest/how-to-log-data-in-real-time-on-a-web-page-using-flask-socketio-in-python-fb55f9dad100)
